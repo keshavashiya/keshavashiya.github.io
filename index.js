@@ -34,7 +34,7 @@ var data = {
 </li><li><a href="https://www.facebook.com/keshavashiya" target="_blank">Facebook - keshavashiya</a>
 </li><li><a href="https://github.com/keshavashiya" target="_blank">Github - keshavashiya</a>
 </li><li><a href="https://medium.com/@keshavashiya" target="_blank">Medium - keshavashiya</a>
-</li><li><a href="https://angle.co/keshavashiya" target="_blank">AngleList - keshavashiya</a>
+</li><li><a href="https://angel.co/keshavashiya" target="_blank">AngelList - keshavashiya</a>
 </li><li><a href="https://keshavashiya.wordpress.com/" target="_blank">Wordpress Blog - keshavashiya</a>
 </li><li><a href="https://behance.net/keshavashiya" target="_blank">Behance - keshavashiya</a>
 </li><li><a href="https://www.instagram.com/keshavashiya/" target="_blank">Insta - keshavashiya</a>
