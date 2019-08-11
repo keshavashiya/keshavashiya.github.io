@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+    color: #00FF00;
+    font-size: 12px;
+    padding: 15px;
+    border: 1px solid;
+}
+
+input {
+    background-color: black;
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+    color: #00FF00;
+    font-size: 12px;
+    border: 0;
+    float: left;
+    width: 95%;
+    display: inline;
+    margin-top: -27px;
+    margin-left: 15px;
+}
+
+input:focus {
+    outline: none;
+}
+
+p {
+    background-color: black;
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+    color: #00FF00;
+    font-size: 12px;
+}
+
+a {
+    background-color: black;
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+    color: #00F;
+    font-size: 12px;
+}
+
+a:hover {
+    color: #F00;
+}
