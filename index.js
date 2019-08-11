@@ -44,7 +44,7 @@ var data = {
   help: `write any command from this list: social, cv, blog, github, mail, posts, picture, projects`,
   cv:
     '<a href="https://docs.google.com/document/d/1nXCGR_r7_ENs2udg_dljTWRmrki1g1bJXdOJMBEU6GE/edit?usp=sharing" target="_blank">myCV</a>',
-  picture: `<img src="https://en.gravatar.com/userimage/95757799/a6ec9ce62ec9001f0b2a0febcb417ff5.jpeg" style="width:300">`,
+  picture: `<img src="https://pbs.twimg.com/profile_images/1060982419791085569/6AKwk6IP_400x400.jpg" style="width:300">`,
   posts: `<ul style="list-style:none">`,
   blog:
     `<li><a href="http://keshavashiya.wordpress.com/" target="_blank">http://keshavashiya.wordpress.com/</a>
