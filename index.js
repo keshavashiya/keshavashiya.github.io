@@ -47,7 +47,7 @@ var data = {
   picture: `<img src="https://en.gravatar.com/userimage/95757799/a6ec9ce62ec9001f0b2a0febcb417ff5.jpeg" style="width:300">`,
   posts: `<ul style="list-style:none">`,
   blog:
-    `<li><a href="http://keshavashiay.wordpress.com/" target="_blank">http://keshavashiya.wordpress.com/</a>
+    `<li><a href="http://keshavashiya.wordpress.com/" target="_blank">http://keshavashiya.wordpress.com/</a>
     </li><li><a href="https://medium.com/@keshavashiya" target="_blank">Medium - keshavashiya</a></li>
     <li><a href="https://keshavashiya.ml" target="_blank">Website - keshavashiya</a></li>`,
   github:
