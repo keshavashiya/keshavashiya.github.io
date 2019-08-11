@@ -53,8 +53,8 @@ var data = {
   github:
     '<a href="https://github.com/keshavashiya" target="_blank">https://github.com/keshavashiya</a>',
   mail:
-    `<li><a href="keshavashiya@outlook.com" target="_blank">keshavashiya@outlook.com</a></li>
-    <li><a href="charan@capdice.com" target="_blank">charan@capdice.com</a></li>`,
+    `<li><a href="mailto:keshavashiya@outlook.com" target="_blank">keshavashiya@outlook.com</a></li>
+    <li><a href="mailto:charan@capdice.com" target="_blank">charan@capdice.com</a></li>`,
   hello:
     "hello visitor, i like you 😍. if you want to get help just write 'help'"
 };
