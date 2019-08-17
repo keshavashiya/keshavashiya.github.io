@@ -1,5 +1,3 @@
-var projectsList = `<ul style="list-style:none">`;
-
 function githubProjs() {
   var settings = {
     async: true,
@@ -46,14 +44,12 @@ var data = {
     '<a href="https://docs.google.com/document/d/1nXCGR_r7_ENs2udg_dljTWRmrki1g1bJXdOJMBEU6GE/edit?usp=sharing" target="_blank">myCV</a>',
   picture: `<img src="https://pbs.twimg.com/profile_images/1060982419791085569/6AKwk6IP_400x400.jpg" style="width:300">`,
   posts: `<ul style="list-style:none">`,
-  blog:
-    `<li><a href="http://keshavashiya.wordpress.com/" target="_blank">http://keshavashiya.wordpress.com/</a>
+  blog: `<li><a href="http://keshavashiya.wordpress.com/" target="_blank">http://keshavashiya.wordpress.com/</a>
     </li><li><a href="https://medium.com/@keshavashiya" target="_blank">Medium - keshavashiya</a></li>
     <li><a href="https://keshavashiya.ml" target="_blank">Website - keshavashiya</a></li>`,
   github:
     '<a href="https://github.com/keshavashiya" target="_blank">https://github.com/keshavashiya</a>',
-  mail:
-    `<li><a href="mailto:keshavashiya@outlook.com" target="_blank">keshavashiya@outlook.com</a></li>
+  mail: `<li><a href="mailto:keshavashiya@outlook.com" target="_blank">keshavashiya@outlook.com</a></li>
     <li><a href="mailto:charan@capdice.com" target="_blank">charan@capdice.com</a></li>`,
   hello:
     "hello visitor, i like you 😍. if you want to get help just write 'help'"
