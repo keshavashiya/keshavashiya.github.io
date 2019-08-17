@@ -59,6 +59,17 @@ function githubProjs() {
 githubProjs();
 
 var data = {
+  intro: `Hello. I'm <a href="https://keshavashiya.github.io/" target="_blank">Keshav Ashiya</a>, just another one in million trying 
+  to understand 01101011 better than any thing.</br>
+I was an Engineering student of <a href="http://jietjodhpur.ac.in/" target="_blank">Jodhpur Institute of Engineering and Technology, Jodhpur</a> 
+and a Full-Stack Developer @ <a href="https://capdice.com/" target="_blank">Capdice LLP</a> building
+ applications for various devices with some awesome people.</br>
+As a Software Developer, I enjoy bridging the gap between engineering and design — combining my 
+technical knowledge with my keen eye for design to create beautiful products. My goal is to always build applications that are scalable
+ and efficient under the hood while providing engaging, pixel-perfect user experiences.
+Although I'm mostly in front of my Laptop. While I'm not working, I’m probably watching a television series
+ or a movie, listening to music, watching random stuff on youtube, writting some hip-hop stuff are on my bucket list.
+ `,
   social: `<ul style="list-style:none">
 <li><a href="https://twitter.com/keshavashiya" target="_blank">Twitter - @keshavashiya</a>
 </li><li><a href="https://www.facebook.com/keshavashiya" target="_blank">Facebook - keshavashiya</a>
@@ -71,11 +82,11 @@ var data = {
 </li><li><a href="https://www.linkedin.com/in/keshavashiya/" target="_blank">Linkedin - keshavashiya</a>
 </li><li><a href="https://www.quora.com/profile/Keshav-Ashiya" target="_blank">Quora - keshavashiya</a>
 </li><li><a href="https://dribbble.com/keshavashiya" target="_blank">Dribbble - keshavashiya</a></li></ul>`,
-  help: `write any command from this list: social, cv, blog, github, mail, posts, picture, projects`,
+  help: `write any command from this list: intro, social, cv, blog, github, mail, posts, picture, projects`,
   cv:
     '<a href="https://docs.google.com/document/d/1nXCGR_r7_ENs2udg_dljTWRmrki1g1bJXdOJMBEU6GE/edit?usp=sharing" target="_blank">myCV</a>',
   picture: `<img src="https://pbs.twimg.com/profile_images/1060982419791085569/6AKwk6IP_400x400.jpg" style="width:300">`,
-  // posts: `<ul style="list-style:none">`,
+  
   blog: `<li><a href="http://keshavashiya.wordpress.com/" target="_blank">http://keshavashiya.wordpress.com/</a>
     </li><li><a href="https://medium.com/@keshavashiya" target="_blank">Medium - keshavashiya</a></li>
     <li><a href="https://keshavashiya.ml" target="_blank">Website - keshavashiya</a></li>`,
