@@ -1,3 +1,33 @@
+var postsList = `<ul style="list-style:none">`;
+
+function getPosts() {
+  var settings = {
+    // async: true,
+    // crossDomain: true,
+    url:
+      "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@keshavashiya"
+    // method: "GET"
+  };
+
+  $.ajax(settings).done(function(response) {
+    var res = response;
+    console.log(res.items.length);
+    for (var i = 0; i < res.items.length; i++) {
+      postsList += `<li><a target="_blank" href="${res.items[i].link}">${
+        res.items[i].title
+      }</a></li>`;
+    }
+    postsList += `</ul>`;
+  });
+
+  setTimeout(function() {
+    data["posts"] = postsList;
+    // console.log(posts);
+  }, 3000);
+}
+
+getPosts();
+
 var projectsList = `<ul style="list-style:none">`;
 
 function githubProjs() {
@@ -56,7 +86,7 @@ Although I'm mostly in front of my Laptop. While I'm not working, I’m probably
   cv:
     '<a href="https://docs.google.com/document/d/1nXCGR_r7_ENs2udg_dljTWRmrki1g1bJXdOJMBEU6GE/edit?usp=sharing" target="_blank">myCV</a>',
   picture: `<img src="https://pbs.twimg.com/profile_images/1060982419791085569/6AKwk6IP_400x400.jpg" style="width:300">`,
-  posts: `<ul style="list-style:none">`,
+  
   blog: `<li><a href="http://keshavashiya.wordpress.com/" target="_blank">http://keshavashiya.wordpress.com/</a>
     </li><li><a href="https://medium.com/@keshavashiya" target="_blank">Medium - keshavashiya</a></li>
     <li><a href="https://keshavashiya.ml" target="_blank">Website - keshavashiya</a></li>`,
