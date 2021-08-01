@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/keshavashiya
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://keshavashiya.github.io
+  * I am keshavashiya (https://keybase.io/keshavashiya) on keybase.
+  * I have a public key ASCIjlD1-Svbl5YiSeeeSg25clYZZD0AX6xWABcyPOhCBAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012a6639fca6c0c07f03d9733e2d617bcf92766059cec3d545c48100d4220c9f9e0a",
+      "host": "keybase.io",
+      "kid": "0120888e50f5f92bdb97962249e79e4a0db9725619643d005fac560017323ce842040a",
+      "uid": "eec0bc0fd897383db33e61f338fe0919",
+      "username": "keshavashiya"
+    },
+    "merkle_root": {
+      "ctime": 1627837843,
+      "hash": "8f4defa7c5edfd02b013488b8df923bf9ae3c88d8df20cd861e45be4367594c0946a5d3e92d02a4d3af813db4cd5e9f4d8831bda7965f93549f4ec46bbf07518",
+      "hash_meta": "db0664f5533c3a269988d382e82eda2b92f64c996a32b281ef0586baf0d56375",
+      "seqno": 20484398
+    },
+    "service": {
+      "entropy": "4eTy68R6nc7ZNsYIq2khrqiP",
+      "hostname": "keshavashiya.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1627837857,
+  "expire_in": 504576000,
+  "prev": "adacc024c1a7b2a996dca730f1413681af0532226d18cab09d745aa226af49f6",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgiI5Q9fkr25eWIknnnkoNuXJWGWQ9AF+sVgAXMjzoQgQKp3BheWxvYWTESpcCGMQgrazAJMGnsqmW3Kcw8UE2ga8FMiJtGMqwnXRaoiavSfbEICnaS70yHremK/w6+wRBV4vwPl+92UDf7YwcV49IxBGZAgHCo3NpZ8RALPA4lP5WOG+2+QC8LLfRcrERysAnRzWKNHahpMZfwanToUgh/7lVrieQKs6LOGojdmv82vAFqfMpYsf7Ciq8DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG+DRja4vgbkA8yPjv7JD5QrDEFDr9QWvSKTJuGjf0zPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/keshavashiya
+
+==================================================================
