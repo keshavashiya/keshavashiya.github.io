@@ -100,7 +100,7 @@ var ff = document.createElement("p");
 ne++;
 ff.setAttribute("id", ne.toString());
 bod.appendChild(ff);
-document.getElementById(ne.toString()).innerHTML = ">";
+document.getElementById(ne.toString()).innerHTML = "~";
 
 var inp = document.createElement("input");
 bod.appendChild(inp);
@@ -145,7 +145,7 @@ function excute() {
   ne++;
   ff.setAttribute("id", ne.toString());
   bod.appendChild(ff);
-  document.getElementById(ne.toString()).innerHTML = ">";
+  document.getElementById(ne.toString()).innerHTML = "~";
   var inpp = document.createElement("input");
   iidd++;
   inpp.setAttribute("id", iidd.toString());
