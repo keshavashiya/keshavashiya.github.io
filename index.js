@@ -56,7 +56,7 @@ var data = {
   intro: `Hello. I'm <a href="https://keshavashiya.github.io/" target="_blank">Keshav Ashiya</a>, just another one in million trying
   to understand 01101011 better than any thing.</br>
 I was an Engineering student of <a href="http://jietjodhpur.ac.in/" target="_blank">Jodhpur Institute of Engineering and Technology, Jodhpur</a>
-and a Software Engineer @ <a href="https://akrity.com/" target="_blank">Akrity Computing Pvt Ltd</a> building
+and a Senior Software Engineer @ <a href="https://www.populardigital.ai/" target="_blank">Popular Digital AI</a> building
  applications for various devices with some awesome people.</br>
 As a Software Engineer, I enjoy bridging the gap between engineering and design — combining my
 technical knowledge with my keen eye for design to create beautiful products. My goal is to always build applications that are scalable
