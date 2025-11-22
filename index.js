@@ -77,7 +77,7 @@ Although I'm mostly in front of my Laptop. While I'm not working, I’m probably
 </li><li><a href="https://www.quora.com/profile/Keshav-Ashiya" target="_blank">Quora - keshavashiya</a>
 </li><li><a href="https://dribbble.com/keshavashiya" target="_blank">Dribbble - keshavashiya</a></li></ul>`,
   help: `write any command from this list: intro, social, cv, blog, github, mail, posts, picture, projects`,
-  cv: '<ul style="list-style:none; padding-left:16px"><li><a href="https://docs.google.com/document/d/1_goXOL8kFxX4nbrtBTXEXVnHmDFvgt9CS-8eqWCw59E/edit?usp=sharing" target="_blank">myCV</a></li></ul>',
+  cv: '<ul style="list-style:none; padding-left:16px"><li><a href="https://docs.google.com/document/d/1TylqIi6DqpCyvsFDweYk_kIKEE7HCDRx1r1_UqBx4jA/edit?usp=sharing" target="_blank">myCV</a></li></ul>',
   picture: `<ul style="list-style:none; padding-left:16px"><li><img src="https://pbs.twimg.com/profile_images/1296671028240777216/-gKg4gmh_400x400.jpg" style="width:300"></li></ul>`,
 
   blog: `<ul style="list-style:none; padding-left:16px"><li><a href="http://keshavashiya.wordpress.com/" target="_blank">http://keshavashiya.wordpress.com/</a>
